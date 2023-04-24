@@ -16,10 +16,10 @@ public class MetodoBiseccion {
         int iteracion = 0;
         
         System.out.println("Ingrese el punto A de desde donde desea evaluar la raiz: ");
-        double A = sc.nextInt();
+        double A = sc.nextDouble();
         
         System.out.println("Ingrese el punto B hasta donde desea evaluar la raiz: ");
-        double B = sc.nextInt();
+        double B = sc.nextDouble();
         
         System.out.println("Ingrese el numero de iteraciones: ");
         double It = sc.nextInt();
